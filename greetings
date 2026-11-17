@@ -1,0 +1,32 @@
+
+# Python Dice Roller
+
+A simple command-line dice rolling application written in Python.
+
+## Features
+- Roll multiple dice at once
+- Customize the number of sides
+- Calculate the total result
+- Display the time of each roll
+- Input validation
+
+## Requirements
+- Python 3.8+
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/python-dice-roller.git
+```
+
+Run the application:
+
+```bash
+python dice_roller.py
+```
+
+## License
+
+MIT License
